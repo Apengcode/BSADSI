@@ -1,0 +1,9 @@
+pip install protobuf==3.20.0 transformers==4.26.1 icetk cpm_kernels
+pip install -U accelerate
+pip install datasets
+pip install -U peft
+pip install -U torchkeras
+pip install torch pandas transformers scikit-learn
+pip install jieba
+conda install scipy==1.3.1
+pip install --upgrade numpy
